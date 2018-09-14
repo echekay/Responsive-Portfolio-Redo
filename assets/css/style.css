@@ -246,3 +246,18 @@ input[type=submit] {
 
 /*Write media queries below here*/
 /*==============================*/
+
+@media only screen and (max-width: 980px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (max-width: 640px) {
+
+  header {
+    position: static;
+  }
+}
